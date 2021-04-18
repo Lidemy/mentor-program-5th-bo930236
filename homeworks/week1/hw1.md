@@ -4,7 +4,7 @@
 2. 建立新 branch，設定 branch 名稱為 week1：git branch week1
 （這裡的新 branch 目前還只是存於自己電腦上，未同步於 GitHub） 
 3. 切換至新 branch： git checkout week1
-4. 寫 hw1 ～ hw5
+4. 寫 hw
 5. 作業完成後將檔案 commit： git commit -am "finished hw1"
 6. 將電腦上的新 branch week1 推到遠端 GitHub 上，讓 local 端 和 remote 端同步： git push origin week1
 （完成後 GitHub 上會出現 week1 這個 branch）
